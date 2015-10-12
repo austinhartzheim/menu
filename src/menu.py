@@ -22,16 +22,16 @@ LOC_MAPPINGS = {
     'ew': 54,
     'elizabeth waters': 54,
     'liz waters': 54,
-    'newells': 66,
-    'newell': 66,
-    'newells deli': 66,
-    'rhetas': 70,
-    'rhetas market': 70,
-    'chad': 70,
-    'carsons': 96,
-    'carsons market': 96,
+    'newells': 67,
+    'newell': 67,
+    'newells deli': 67,
+    'rhetas': 72,
+    'rhetas market': 72,
+    'chad': 72,
+    'carsons': 98,
+    'carsons market': 98,
     'que rico': 109,
-    'eagles wing': 108
+    'eagles wing': 111
 }
 
 parser = argparse.ArgumentParser()
