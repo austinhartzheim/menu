@@ -9,28 +9,46 @@ import wok
 import libs.input
 
 LOC_MAPPINGS = {
-    'gordons': 1,
+    'gordons': 38,
+
+    # Bean and Creamery (Submenu)
     'coffee': 30,
     'bean and creamery': 30,
-    'dejope': 31,
-    'flm': 31,
-    'four lakes market': 31,
+
+    # Dejope
+    'flm': 14,
+    'four lakes market': 14,
+    'dejope': 14,
+
+    # Grab and Go (Submenu)
     'grab': 54,
     'grab and go': 54,
-    'liz': 54,
-    'lw': 54,
-    'ew': 54,
-    'elizabeth waters': 54,
-    'liz waters': 54,
-    'newells': 67,
-    'newell': 67,
-    'newells deli': 67,
-    'rhetas': 72,
-    'rhetas market': 72,
-    'chad': 72,
-    'carsons': 98,
-    'carsons market': 98,
+
+    # Liz's Market
+    'liz': 68,
+    'lw': 68,
+    'ew': 68,
+    'elizabeth waters': 68,
+    'liz waters': 68,
+
+    # Newell's Deli
+    'newells': 79,
+    'newell': 79,
+    'newells deli': 79,
+
+    # Rhetas
+    'rhetas': 84,
+    'rhetas market': 84,
+    'chad': 84,
+
+    # Carsons
+    'carsons': 1,
+    'carsons market': 1,
+
+    # Que Rico (Submenu)
     'que rico': 109,
+
+    # Eagles Wing
     'eagles wing': 111
 }
 
